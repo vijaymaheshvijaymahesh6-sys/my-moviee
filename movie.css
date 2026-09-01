@@ -1,0 +1,8 @@
+
+ body { background: #0f172a; color: #e6eef8; }
+    .card { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); }
+    .poster { height: 360px; object-fit: cover; }
+    .no-poster { height: 360px; display:flex; align-items:center; justify-content:center; color:#9aa7bf; background: rgba(255,255,255,0.02); }
+    .rating-badge { font-weight:600; }
+    .muted { color:#94a3b8; }
+    .search-area { backdrop-filter: blur(4px); }
